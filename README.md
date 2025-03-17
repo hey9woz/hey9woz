@@ -2,10 +2,6 @@
   <img height="300" src="https://raw.githubusercontent.com/hey9woz/cabinet/refs/heads/main/images/hey9woz-logo.jpg" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hey9woz.hey9woz&" />
-</div>
-
 <br/>
 
 <div align="center">🌏こんにちは世界</div>
