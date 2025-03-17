@@ -1,14 +1,18 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/hey9woz/cabinet/refs/heads/main/images/hey9woz-logo.jpg" />
+  <img height="300" src="https://raw.githubusercontent.com/hey9woz/cabinet/refs/heads/main/images/hey9woz-logo.jpg" />
 </div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hey9woz.hey9woz&" />
 </div>
 
-<div align="center">こんにちは世界</div>
+<br/>
 
-## Who am I?
+<div align="center">🌏こんにちは世界</div>
+
+<br/>
+
+## ■Who am I?
 
 - **Alias:** Software Engineer / Freelancer / Hacking Enthusiast  
 - **Experience (as of 2025):**  
@@ -17,7 +21,7 @@
   - 3 years as a Recruitment Consultant  
 - **Philosophy:** Ethical Business & Long-term Trust over Short-term Gains  
 
-## Repositories
+## ■Repositories
 
 ### 🛠️ Optimaize  
 A collection of scripts designed to improve efficiency and automate repetitive tasks.  
@@ -33,9 +37,3 @@ A CBT-style (Computer-Based Test) mock exam application for PC. Currently, it on
 A simple and elegant recipe app, built as part of a portfolio project.  
 
 🔗 [delicieux](https://github.com/hey9woz/delicieux)  
-
-## 🔥 My Stats 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hey9woz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
