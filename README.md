@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/hey9woz/cabinet/refs/heads/main/images/hey9woz-logo.jpg" />
+  <img height="300" src="https://raw.githubusercontent.com/hey9woz/cabinet/refs/heads/main/images/hey9woz-logo_backgroundNo.png" />
 </div>
 
 <br/>
