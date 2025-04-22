@@ -19,6 +19,18 @@
 
 ## ■Repositories
 
+### 🏠 Homepage  
+My personal website, where I share information about myself and showcase **PomoFlow** — an MVP that combines a Pomodoro timer, ToDo list, and BGM player to help create “the most productive time born from focus and rhythm.”
+
+🔗 [yohei-kano.com](https://www.yohei-kano.com/)  
+
+### 🌀 Rutenya  
+Homepage for **Rutenya**, my freelance studio. I offer IT services and software development aimed at simplifying complexity and enabling clients to focus on what truly matters.
+
+Inspired by the idea of *"Ruten"* — the constant flow and transformation of technology — Rutenya is committed to helping people protect their **time** and **value**, while building toward long-term growth.
+
+- 🔗 [rutenya.jp](https://www.rutenya.jp/)
+
 ### 🛠️ Optimaize  
 A collection of scripts designed to improve efficiency and automate repetitive tasks.  
 
@@ -33,3 +45,4 @@ A CBT-style (Computer-Based Test) mock exam application for PC. Currently, it on
 A simple and elegant recipe app, built as part of a portfolio project.  
 
 🔗 [delicieux](https://github.com/hey9woz/delicieux)  
+
