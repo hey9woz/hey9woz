@@ -29,7 +29,7 @@ Homepage for **Rutenya**, my freelance studio. I offer IT services and software 
 
 Inspired by the idea of *"Ruten"* — the constant flow and transformation of technology — Rutenya is committed to helping people protect their **time** and **value**, while building toward long-term growth.
 
-- 🔗 [rutenya.jp](https://www.rutenya.jp/)
+🔗 [rutenya.jp](https://www.rutenya.jp/)
 
 ### 🛠️ Optimaize  
 A collection of scripts designed to improve efficiency and automate repetitive tasks.  
