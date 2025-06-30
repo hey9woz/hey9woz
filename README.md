@@ -19,30 +19,33 @@
 
 ## ■Repositories
 
-### 🏠 Homepage  
-My personal website, where I share information about myself and showcase **PomoFlow** — an MVP that combines a Pomodoro timer, ToDo list, and BGM player to help create “the most productive time born from focus and rhythm.”
+### 🏠 Homepage
 
-🔗 [yohei-kano.com](https://www.yohei-kano.com/)  
+My personal website with project showcases like **PomoFlow** — a productivity tool combining a Pomodoro timer, ToDo list, and BGM player.
 
-### 🌀 Rutenya  
-Homepage for **Rutenya**, my freelance studio. I offer IT services and software development aimed at simplifying complexity and enabling clients to focus on what truly matters.
+🔗 [yohei-kano.com](https://www.yohei-kano.com/)
 
-Inspired by the idea of *"Ruten"* — the constant flow and transformation of technology — Rutenya is committed to helping people protect their **time** and **value**, while building toward long-term growth.
+### 🌀 Rutenya
+
+Homepage for **Rutenya**, my freelance studio. I provide IT services and software development focused on clarity, value, and long-term growth.
 
 🔗 [rutenya.jp](https://www.rutenya.jp/)
 
-### 🛠️ Optimaize  
-A collection of scripts designed to improve efficiency and automate repetitive tasks.  
+### ⚙️ Dotfiles
 
-🔗 [optimaize](https://github.com/hey9woz/optimaize)  
+Personal configuration files for terminal tools like Neovim and tmux, optimized for productivity.
 
-### 🎯 Quiz App  
-A CBT-style (Computer-Based Test) mock exam application for PC. Currently, it only has the function of simulating exams, so later we would like to add a more sophisticated UI and analysis functions.
+🔗 [dotfiles](https://github.com/hey9woz/dotfiles)
 
-🔗 [quiz-app](https://github.com/hey9woz/quiz-app)  
+### 🛠️ Optimaize
 
-### 🍽️ Délicieux  
-A simple and elegant recipe app, built as part of a portfolio project.  
+A collection of scripts to streamline workflows and automate repetitive tasks.
 
-🔗 [delicieux](https://github.com/hey9woz/delicieux)  
+🔗 [optimaize](https://github.com/hey9woz/optimaize)
+
+### 🍽️ Délicieux
+
+A simple and elegant recipe app, built as part of a portfolio project.
+
+🔗 [delicieux](https://github.com/hey9woz/delicieux)
 
