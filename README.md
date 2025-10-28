@@ -43,9 +43,3 @@ A collection of scripts to streamline workflows and automate repetitive tasks.
 
 🔗 [optimaize](https://github.com/hey9woz/optimaize)
 
-### 🍽️ Délicieux
-
-A simple and elegant recipe app, built as part of a portfolio project.
-
-🔗 [delicieux](https://github.com/hey9woz/delicieux)
-
