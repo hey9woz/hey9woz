@@ -21,7 +21,7 @@
 
 ### 🏠 Homepage
 
-My personal website with project showcases like **PomoFlow** — a productivity tool combining a Pomodoro timer, ToDo list, and BGM player.
+My personal website is a public notebook where I put things.
 
 🔗 [yohei-kano.com](https://www.yohei-kano.com/)
 
