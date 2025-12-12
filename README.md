@@ -12,8 +12,8 @@
 
 - **Alias:** Software Engineer / Freelancer / Hacking Enthusiast  
 - **Experience (as of 2025):**  
-  - 11 years in IT  
-  - 8 years as a Software Engineer  
+  - 9 years in IT  
+  - 6 years as a Software Engineer  
   - 3 years as a Recruitment Consultant  
 - **Philosophy:** Ethical Business & Long-term Trust over Short-term Gains  
 
